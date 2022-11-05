@@ -2,6 +2,12 @@
   react-native-video ExoPlayer zombie audio bug
 </h1>
 
+## Video sample (volume up)
+
+https://user-images.githubusercontent.com/29244509/200118379-ce96180a-5bc0-4803-bb42-a91bd0edbb2b.mov
+
+
+
 ## Steps To Reproduce
 
 1. **Install dependencies**
