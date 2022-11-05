@@ -49,6 +49,6 @@ https://user-images.githubusercontent.com/29244509/200118379-ce96180a-5bc0-4803-
    yarn android
    ```
 
-1. 3 seconds after video starts playing, `setKey` will force `<Video>` component to re-mount, listen for duplicate audio streams
+1. 3 seconds after the video starts playing, `setKey` will force `<Video>` component to re-mount, listen for duplicate audio streams
 
-1. Press 'Unmount' button to unmount `<Video>` component and obvserve how audio steam is still playing despite there being no active video player
+1. Press the 'Unmount' button to unmount `<Video>` component and observe how audio steam is still playing despite there being no active video player
